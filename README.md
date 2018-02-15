@@ -1,0 +1,2 @@
+# json-simplified
+Learning JSON
