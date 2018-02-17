@@ -1,0 +1,14 @@
+{
+  "class": "Biology",
+  "student": {
+    "name": "Programming Liftoff!",
+		"email": "json@programmingliftoff.com",
+		"website": "www.programmingliftoff.com",
+		"idNumber": 100
+  },
+  "homework": [
+	  "read 5 pages for bio",
+		"memorize plant cell structure",
+		"write a program to synthesize plant DNA"
+	]
+}
